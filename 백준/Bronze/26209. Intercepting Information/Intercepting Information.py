@@ -1,0 +1,1 @@
+print('F' if input().count("9") else "S")
